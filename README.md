@@ -47,7 +47,7 @@
 
 </p>
 
-### ⌨️ SQL
+### ⌨️ Database
 <p align="center"> 
 &emsp; 
 <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
