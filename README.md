@@ -68,7 +68,7 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+
   <br/>
   <p align="center">
     <img alt="katsutori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katsutori&show_icons=true&count_private=true&theme=algolia" height="192px"/>
