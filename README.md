@@ -5,7 +5,7 @@
 - :computer: I have over ten years of software development experience.
 - :coffee: I love `JavaScript`.
 - :snake: But, I also love `Python`.
-- 🤝 I am currently available for new projects and teams, here's a preview into some of my work [MINI PORTFOLIO](http://10outtathien.com/).
+- 🤝 I am currently available for new projects and teams, here's a preview into some of my past work [MINI PORTFOLIO](http://10outtathien.com/).
 - :nerd_face: Love `learning new things`
 
 <br>
