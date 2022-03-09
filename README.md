@@ -49,21 +49,16 @@
 
 ### ⌨️ SQL
 <p align="center"> 
-  &emsp; 
-  <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-  &emsp;
-  <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  &emsp;
+&emsp; 
+<img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+&emsp;
+<img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+&emsp;
 <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-	&emsp;
-	<img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-
-	&emsp;
+&emsp;
+<img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+&emsp;
 <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-
-
 </p>
 
  
