@@ -71,10 +71,10 @@
 
   <br/>
   <p align="center">
-    <img alt="katsutori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katsutori&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="katsutori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katsutori&show_icons=true&count_private=true&theme=radical" height="192px"/>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katsutori&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="katsutori" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katsutori&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="katsutori" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level of other technologies.
   </p>
@@ -83,7 +83,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/katsutori"><img alt="Katsutori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=katsutori&custom_title=katsutori's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/katsutori"><img alt="Katsutori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=katsutori&custom_title=katsutori's%20Contribution%20Graph&theme=radical" /></a>
   <br/>
 
 
