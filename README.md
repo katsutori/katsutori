@@ -11,8 +11,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katsutori&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=katsutori&theme=radical" alt="katsutori" /></p>
 
 
 ## 🛠️ My Skills
