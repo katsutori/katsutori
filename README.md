@@ -11,7 +11,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katsutori)]</p>
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katsutori)](https://git.io/streak-stats)</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katsutori)]
 <br>
 <br>
