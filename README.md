@@ -11,7 +11,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=katsutori&theme=algolia" alt="katsutori" /></p>
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katsutori)]</p>
 
 <br>
 <br>
