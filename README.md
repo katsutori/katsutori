@@ -4,7 +4,7 @@
 ## :technologist:  About me
 - :computer: I have over ten years of software development experience.
 - :coffee: I love `JavaScript`.
-- :snake: But, I also love `Python`.
+- :snake: But, I also love `Python` and `Ruby`.
 - 🤝 I am currently available for new projects and teams, here's a preview into some of my past work [MINI PORTFOLIO](http://10outtathien.com/).
 - :nerd_face: Love `learning new things`
 
@@ -46,6 +46,8 @@
   <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   &emsp;
  <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+	 &emsp;
+ <img height='70' align='center' src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" />
 
 </p>
 
