@@ -6,7 +6,7 @@
 - :coffee: I love `JavaScript`.
 - :snake: But, I also love `Python` and `Ruby`.
 - 🤝 I am currently available for new projects and teams, here's a preview into some of my past work [MINI PORTFOLIO](http://10outtathien.com/).
-- :nerd_face: Love `learning new things`
+- :nerd_face: Loves `food`
 
 <br>
 
