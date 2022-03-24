@@ -87,6 +87,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
+  [![Katsutori's github activity graph](https://activity-graph.herokuapp.com/graph?username=Katsutori&theme=react--dark)](https://github.com/katsutori/github-readme-activity-graph)
    <a href="https://github.com/katsutori"><img alt="Katsutori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=katsutori&custom_title=katsutori's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
