@@ -83,5 +83,5 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level of other technologies.
   </p>
 
-
+[![Katsutori's github activity graph](https://activity-graph.herokuapp.com/graph?username=Katsutori&theme=dracula)](https://github.com/Katsutori/github-readme-activity-graph)
 
